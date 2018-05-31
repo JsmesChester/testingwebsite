@@ -1,0 +1,53 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #5299d3;
+}
+
+
+img {
+    width: 50%;
+    border: 2px solid #ffa600;
+}
+
+header {
+    color: #ffffff 
+    font-size: 80pt;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 50%;
+    border: 2px solid black;
+}
+
+.text {
+    width: 85%;
+    border: 3px solid;
+    padding: 16px;
+}
+
+.container {
+    border: 1px solid red;
+    width: 96%;
+
+}
+
+.photo {
+    float: left;
+    width: 50%;
+}
+
+img {
+    width: 50% 
+    border: 2px solid black;
+}
